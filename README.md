@@ -56,3 +56,11 @@ module.exports = {
   "jsxSingleQuote": true
 }
 ```
+
+### Faça depois:
+- Confira se sua IDE tem o eslint e o prettier ativados
+- Apague o package-lock.json e o yarn-lock
+- Feche sua IDE
+- Re instale os pacotes
+- Abra a IDE novamente e veja se está funcionando
+
